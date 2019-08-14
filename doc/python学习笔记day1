@@ -1,0 +1,27 @@
+###python学习
+* 学习地址：https://www.liaoxuefeng.com/wiki/1016959663602400
+
+####python前言
+* python是计算机程序设计语言
+* pyhton有非常完善的基础代码库，许多功能不需要从零开发
+* python适合开发的应用  
+    1).网络应用，包括网站、后台服务  
+    2).日常需要的小工具  
+    3).自动化测试  
+    4).数据分析
+* python是解释型语言，运行速度慢、代码不能加密。
+
+####python安装
+* python 是跨平台的。
+* 安装python3.x版本
+* 安装成功后运行 python或python3
+
+#####python解释器
+    python文件以py结尾  
+* CPython 官网下载使用的是用c语言写的解释器
+* IPython 基于CPython之上的交互式解释器
+* PyPy 是作为Python解释器，它的目标是执行速度，对python代码进行动态编译。
+* Jython 是运行在java平台的python解释器，可以把python代码编译成java字节码执行
+* IronPython是运行在微软.NET平台上的python解释器。
+
+    
