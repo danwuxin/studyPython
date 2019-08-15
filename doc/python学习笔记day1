@@ -24,4 +24,15 @@
 * Jython 是运行在java平台的python解释器，可以把python代码编译成java字节码执行
 * IronPython是运行在微软.NET平台上的python解释器。
 
-    
+####python 程序
+```
+#!/usr/bin/env python3
+print("Hello World!")
+```
+###python 基础
+* 数据类型和变量  
+* 字符串和编码
+* list和tuple
+* 条件判断
+* 循环
+* 使用dict和set
