@@ -65,7 +65,7 @@ print("Hello World!")
     3.使用函数str()避免类型错误  
         str();
 * 注释  
-    python中注释是#  
+    python中注释是#
 * list和tuple
 * 条件判断  
 * 循环
