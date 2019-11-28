@@ -62,11 +62,13 @@ print("Hello World!")
 * 数字  
     1.整数  
     2.浮点数  
-    3.使用函数str()避免类型错误  
+    3.使用函数str()避免类型错误
         str();
 * 注释  
     python中注释是#
 * list和tuple
+       list2 = [1, 2, 3, 4, 5 ]
+
 * 条件判断  
 * 循环
 * 使用dict和set
